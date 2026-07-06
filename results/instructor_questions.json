@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "Q1",
+    "question": "Why does Macbeth kill Duncan?",
+    "expected_focus": "Ambition, prophecy, Lady Macbeth's influence, and Macbeth's decision to seize power.",
+    "type": "contextual_qa"
+  },
+  {
+    "question_id": "Q2",
+    "question": "Who is Hamlet?",
+    "expected_focus": "Prince of Denmark, son of the murdered king, central figure in revenge plot.",
+    "type": "concept_explanation"
+  },
+  {
+    "question_id": "Q3",
+    "question": "What is the conflict between the Montagues and the Capulets?",
+    "expected_focus": "Long-standing family feud in Romeo and Juliet.",
+    "type": "concept_explanation"
+  },
+  {
+    "question_id": "Q4",
+    "question": "Why does Hamlet delay taking revenge?",
+    "expected_focus": "Uncertainty, moral hesitation, need for proof, philosophical reflection.",
+    "type": "contextual_qa"
+  },
+  {
+    "question_id": "Q5",
+    "question": "Generate a short Shakespearean-style response from Juliet explaining her conflict after meeting Romeo.",
+    "expected_focus": "Creative stylised output; conflict between love for Romeo and family loyalty.",
+    "type": "stylised_generation"
+  },
+  {
+    "question_id": "G1",
+    "question": "What role do the witches play in Macbeth?",
+    "expected_focus": "The witches deliver prophecies that trigger Macbeth's ambition; they represent fate, temptation, and the supernatural.",
+    "type": "concept_explanation"
+  },
+  {
+    "question_id": "G2",
+    "question": "How does Lady Macbeth influence Macbeth's decision to kill Duncan?",
+    "expected_focus": "Lady Macbeth challenges Macbeth's masculinity, dismisses his doubts, and orchestrates the plan.",
+    "type": "contextual_qa"
+  },
+  {
+    "question_id": "G3",
+    "question": "What happens to Ophelia and why?",
+    "expected_focus": "Ophelia descends into madness after her father Polonius is killed by Hamlet and Hamlet rejects her; she drowns.",
+    "type": "contextual_qa"
+  },
+  {
+    "question_id": "G4",
+    "question": "Why do Romeo and Juliet keep their marriage a secret?",
+    "expected_focus": "The family feud means their families would never accept the marriage; secrecy is forced by circumstance.",
+    "type": "contextual_qa"
+  },
+  {
+    "question_id": "G5",
+    "question": "Generate a short Shakespearean-style speech from Macbeth after he decides to kill Duncan.",
+    "expected_focus": "Creative stylised output reflecting Macbeth's ambition, guilt, and resolve.",
+    "type": "stylised_generation"
+  }
+]

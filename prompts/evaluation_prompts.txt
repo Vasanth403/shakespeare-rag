@@ -1,0 +1,29 @@
+Instructor-Provided Evaluation Questions
+=========================================
+
+Q1. Why does Macbeth kill Duncan?
+Q2. Who is Hamlet?
+Q3. What is the conflict between the Montagues and the Capulets?
+Q4. Why does Hamlet delay taking revenge?
+Q5. Generate a short Shakespearean-style response from Juliet explaining her conflict after meeting Romeo.
+
+Group-Designed Evaluation Questions
+=====================================
+
+G1. What role do the witches play in Macbeth?
+G2. How does Lady Macbeth influence Macbeth's decision to kill Duncan?
+G3. What happens to Ophelia and why?
+G4. Why do Romeo and Juliet keep their marriage a secret?
+G5. Generate a short Shakespearean-style speech from Macbeth after he decides to kill Duncan.
+
+Notes
+=====
+- Questions Q1-Q5 are instructor-provided and shared across all groups.
+- Questions G1-G5 are group-designed to test additional system capabilities:
+    G1: retrieval of a recurring thematic element (witches across multiple scenes)
+    G2: multi-scene contextual reasoning for a single motivation
+    G3: cross-scene narrative coherence (Ophelia's arc across Acts 3-4)
+    G4: grounding in Romeo and Juliet's feud context
+    G5: stylised generation on a different play from Q5
+- Stylised questions (Q5, G5) are scored on style_quality in addition to usefulness.
+- Full responses and scores are in results/evaluation_results.csv.
