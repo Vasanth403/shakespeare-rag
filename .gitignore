@@ -11,7 +11,6 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 
-# Keep the graded report out of the public repo
 report/
 
 # Regenerable embedding cache (rebuilt by build_index.py)
