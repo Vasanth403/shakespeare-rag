@@ -1,7 +1,3 @@
-# Assignment 2: Shakespeare-Aware RAG System
-
-## CSCI433/933 Machine Learning Algorithms and Applications
-
 A Retrieval-Augmented Generation (RAG) system for answering questions about
 Shakespeare's _Hamlet_, _Macbeth_, and _Romeo and Juliet_.
 
